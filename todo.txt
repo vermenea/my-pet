@@ -1,0 +1,8 @@
+/////////////TO//DO////////////////////////////////////////////
+1. 3 Options to take care: feed, take on a walk, hug, pet, water3. Hunger, water, love stats
+2. Texts when clicking on actions
+3. Better pet animations
+4. Responsive to all devices
+5. Change pet character
+6. Name your pet
+7. Loading screen, play button
