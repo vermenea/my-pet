@@ -1,4 +1,5 @@
-import { isMovingActive, defaultPet } from '/src/js/main.js';
+import { isMovingActive, defaultPet } from './main.js';
+
 export function feedFunction() {
 	if (!isMovingActive) {
 		const foodPet = document.querySelector('.pet-food');

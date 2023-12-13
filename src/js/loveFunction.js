@@ -1,4 +1,5 @@
-import { isMovingActive } from '/src/js/main.js';
+import { isMovingActive } from './main.js';
+
 export function loveFunction() {
 	if (!isMovingActive) {
 		const gameContainer = document.querySelector('#game-container');
