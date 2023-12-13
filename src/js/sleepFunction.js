@@ -1,4 +1,4 @@
-import { isMovingActive, defaultPet } from '../js/main';
+import { isMovingActive, defaultPet } from '/src/js/main.js';
 export function sleepFunction() {
 	if (!isMovingActive) {
 		const sleepPet = document.querySelector('.pet-sleep');
