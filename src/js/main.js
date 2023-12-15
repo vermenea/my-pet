@@ -1,4 +1,3 @@
-import '../style/style.css';
 import { feedFunction } from '../js/feedFunction.js';
 import { loveFunction } from '../js/loveFunction.js';
 import { sleepFunction } from '../js/sleepFunction.js';
