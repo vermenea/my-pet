@@ -41,7 +41,7 @@ header {
 .pet {
 	width: 200px;
 	height: 300px;
-	background-image: url('/public/images/catwalk.gif');
+	background-image: url('./public/images/catwalk.gif');
 	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -50,7 +50,7 @@ header {
 .pet-sit {
 	width: 200px;
 	height: 300px;
-	background-image: url('/public/images/normalcat.png');
+	background-image: url('./public/images/normalcat.png');
 	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -58,7 +58,7 @@ header {
 .pet-food {
 	width: 150px;
 	height: 300px;
-	background-image: url('/public/images/foodcat.png');
+	background-image: url('./public/images/foodcat.png');
 	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -66,7 +66,7 @@ header {
 .pet-sleep {
 	width: 220px;
 	height: 300px;
-	background-image: url('/public/images/sleepcat.gif');
+	background-image: url('./public/images/sleepcat.gif');
 	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;
